@@ -7,10 +7,6 @@
         {
             "name": "Mukesh Sharma",
             "email": "cogentmukesh@gmail.com"
-        },
-        {
-            "name": "Contributors",
-            "homepage": "https://github.com/mokesh/ConfigLoader/contributors"
         }
     ],
     "require": {
