@@ -1,5 +1,5 @@
 {
-    "name": "mokesh/config-loader",
+    "name": "mokesh/config-provisioner",
     "description": "A simple config loader with support of php, json and yaml.",
     "keywords": ["config", "loader"],
     "license": "MIT",
