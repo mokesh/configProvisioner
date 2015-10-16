@@ -1,0 +1,22 @@
+{
+    "name": "mokesh/config-loader",
+    "description": "A simple config loader with support of php, json and yaml.",
+    "keywords": ["config", "loader"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mukesh Sharma",
+            "email": "cogentmukesh@gmail.com"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/mokesh/ConfigLoader/contributors"
+        }
+    ],
+    "require": {
+        "igorw/config-service-provider": "~1.2.2"
+    },
+    "autoload": {
+        "psr-4": { "Mokesh\\": "src/Mokesh" }
+    }
+}
