@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This file is part of ConfigLoader package.
+ * This file is part of ConfigProvisioner package.
  *
  * (c) Mukesh Sharma <cogentmukesh@gmail.com>
  *
